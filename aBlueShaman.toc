@@ -1,0 +1,8 @@
+## Interface: 11302
+## Author: cocovanana
+## Title: aBlueShaman |cff1a9fc0Classic|r
+## Version: 1.1
+## Notes: Makes Shamans' color blue!
+## Comments: Thanks to Bouyou for the hex color fix!
+
+init.lua
